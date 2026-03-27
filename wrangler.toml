@@ -31,7 +31,7 @@ workers_dev = true
 # ============================================
 [vars]
 # Google Custom Search API 配置
-GOOGLE_API_KEY = "AIzaSyDtsUo_0Ep06t84VdkYdayanGYZPYoIyrI"
+# GOOGLE_API_KEY = "AIzaSyDtsUo_0Ep06t84VdkYdayanGYZPYoIyrI"
 # GOOGLE_CX = ""
 
 # API 访问令牌(可选)
