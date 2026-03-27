@@ -20,7 +20,7 @@ export const env = {
   // API 访问令牌 - API access token for authentication
   // 如果设置了 TOKEN，则所有 /search 请求都需要在 header 或 query 中提供此 token
   // If TOKEN is set, all /search requests must provide this token in header or query
-  TOKEN: null
+  TOKEN: null,
 };
 
 export const setEnv = (newEnv) => {
