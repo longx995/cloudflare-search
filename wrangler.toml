@@ -37,7 +37,7 @@ workers_dev = true
 # API 访问令牌(可选)
 # 配置后，所有 /search 请求都需要提供此 token 进行鉴权
 # 可以通过 Authorization header (Bearer token) 或 query 参数 (?token=xxx) 传递
-TOKEN = "5f33f5f60b54f3d1d868d235860134c2c513a5d0b700a291da1e39f422e82550"
+#TOKEN = ""
 
 # ============================================
 # 环境配置(可选)
